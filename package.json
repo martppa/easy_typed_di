@@ -1,5 +1,5 @@
 {
-  "name": "@asere.net/easy_typed_di",
+  "name": "easy_typed_di",
   "version": "0.0.1",
   "description": "Easy and simple DI library for typescript",
   "main": "index.ts",
