@@ -1,6 +1,6 @@
 {
   "name": "easy_typed_di",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy and simple DI library for typescript",
   "main": "index.ts",
   "scripts": {
