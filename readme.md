@@ -4,7 +4,7 @@ Simple service locator for TypeScript.
 
 ## Description
 
-EasyTypedDI is a service locator intended to provide dependencies to small projects or for learning purposes. It's specially designed to do not pollute your code with annoying and unconfortable tags or code snippeds related to DI. It's a simple solution to keep everything clean and separated. 
+EasyTypedDI is a service locator intended to provide dependencies to small projects or for learning purposes. It's specially designed to do not pollute your code with annoying and unconfortable tags or code snippets related to DI. It's a simple solution to keep everything clean and separated. 
 
 ## Installation
 To install this package... meh, just copy the code and you are good to go. Anyway, you can always run the following command:
